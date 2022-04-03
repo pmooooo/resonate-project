@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/resonate-project/static/css/main.c4a31e65.css",
-    "main.js": "/resonate-project/static/js/main.648daf8f.js",
+    "main.css": "/resonate-project/static/css/main.88ee8c3d.css",
+    "main.js": "/resonate-project/static/js/main.d9927f7e.js",
     "static/js/787.c7152461.chunk.js": "/resonate-project/static/js/787.c7152461.chunk.js",
     "index.html": "/resonate-project/index.html",
-    "main.c4a31e65.css.map": "/resonate-project/static/css/main.c4a31e65.css.map",
-    "main.648daf8f.js.map": "/resonate-project/static/js/main.648daf8f.js.map",
+    "main.88ee8c3d.css.map": "/resonate-project/static/css/main.88ee8c3d.css.map",
+    "main.d9927f7e.js.map": "/resonate-project/static/js/main.d9927f7e.js.map",
     "787.c7152461.chunk.js.map": "/resonate-project/static/js/787.c7152461.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4a31e65.css",
-    "static/js/main.648daf8f.js"
+    "static/css/main.88ee8c3d.css",
+    "static/js/main.d9927f7e.js"
   ]
 }
